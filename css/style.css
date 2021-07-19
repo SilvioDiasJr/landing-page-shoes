@@ -167,8 +167,9 @@ footer p {
   }
 
   main p {
-    display: none;
+    width: 300px;
     text-align: center;
+    font-size: 0.875rem;
   }
 
   main section.card{
