@@ -159,7 +159,7 @@ footer p {
   header .banner-content .banner-info p {
     width: 280px;
     margin: 0 60px;
-    font-size: 0.875rem;
+    font-size: 1rem;
   }
 
   main {
@@ -173,7 +173,7 @@ footer p {
   main p {
     width: 300px;
     text-align: center;
-    font-size: 0.875rem;
+    font-size: 1rem;
   }
 
   main section.card{
